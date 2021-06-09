@@ -1,0 +1,149 @@
+button{
+    cursor: pointer;
+}
+.avo{
+    list-style: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    background: #3F51B5;
+    padding-left: 20%; 
+    color: #E5E5E5;
+    padding: 4px;
+}
+.gclas{
+    display: flex;   
+     margin-left: 20px;
+    margin-right: 20px;
+    list-style: none;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 149%;
+
+
+}
+.li-nav{
+    list-style: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-left: 0%;
+}
+    .liv-nav{
+    list-style: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-left: 0%;
+}
+.tite:active{
+    background: rgb(83, 45, 255);
+}
+nav{
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+}
+.conteiner{
+    width: 255px;
+    margin: 0 auto;
+    text-align: center;
+    margin-right: 415px;
+    padding: 40px;
+ 
+    border-radius: 30px;
+
+}
+.milion{
+    margin-top: 100px;
+}
+.wih{
+    width: 20px;
+    margin-right: 415px;
+
+}
+.cotent{
+    width: 100%;
+}
+.nav{
+    display: flex;
+
+}
+h4{
+    margin-top: 20px;
+}
+
+.ilove{
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px; 
+    line-height: 34px;
+}
+.love{
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+}
+.you{
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 17px;
+}
+.avo:hover{
+    background: rgb(17, 147, 235);
+    
+}
+.avo:active{
+    background: rgb(13, 62, 151);
+    color: black;
+}
+body{
+    background: #E5E5E5;
+}
+a{
+    color: black;
+}
+
+.nav__open {
+    text-decoration: none;
+    color: #000;
+    opacity: .5;
+    font-size: 40px;
+  }
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 30px;
+}
+.iner{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+}
+.xtan{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    letter-spacing: 0.15px;
+    color: rgba(17, 17, 17, 0.164);
+}
+.tul{
+    display: flex;
+    padding-left: 20px;
+}
+
