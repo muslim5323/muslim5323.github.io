@@ -1,0 +1,43 @@
+/* 
+* Общие стили
+*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 20px;
+  background: #494949;
+  display: flex;
+    justify-content: center;
+}
+
+
+.image1{
+  width: 90px;
+  border-radius: 60px;
+  height: 100px;
+}
+.conteiner{
+  width: 800px;
+}
+.image2{
+  width: 400px;
+}
+a{
+  margin-top: 20px;
+}
+.image3{
+  width: 300px;
+}
+.conteiner2{
+  display: flex;
+}
+.img1{
+  margin-left: 60px;
+}
+.image4{
+  width: 400px;
+  margin-left: 60px;
+}
+.h3{
+  margin-left: 60px;
+}

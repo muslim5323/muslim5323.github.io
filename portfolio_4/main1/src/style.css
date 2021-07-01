@@ -1,0 +1,15 @@
+.bookCalc{
+    max-width: 800px;
+    border: 3px solid;
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+.btn btn-success rounded-pill:hover{
+    background: rgb(4, 19, 0);
+}
+body{
+    background: rgb(109, 109, 109);
+}
