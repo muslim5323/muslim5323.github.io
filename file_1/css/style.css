@@ -1,0 +1,70 @@
+/* 
+* Общие стили
+*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 20px;
+  background: #494949;
+  display: flex;
+    justify-content: center;
+}
+
+.conteiner_5{
+  margin-left: 60px;
+}
+.image_4{
+  width: 340px;
+  border-radius: 40px;
+}
+.image1{
+  width: 90px;
+  border-radius: 60px;
+  height: 100px;
+}
+.conteiner{
+  width: 650px;
+}
+.img4{
+  text-align: center;
+}
+.image5{
+  width: 300px;
+}
+.image2{
+  width: 400px;
+  border-radius: 40px;
+}
+a{
+  margin-top: 20px;
+  color: black;
+}
+.image3{
+  width: 300px;
+  border-radius: 40px;
+}
+.image6{
+  width: 300px;
+}
+.image_5{
+  margin-top:30px;
+  width: 300px;
+  border-radius: 40px;
+}
+.conteiner2{
+  display: flex;
+}
+.conteiner3{
+  width: 100px;
+}
+
+.img1{
+  margin-left: 60px;
+}
+.image4{
+  width: 400px;
+  margin-left: 60px;
+}
+.h3{
+  margin-left: 60px;
+}

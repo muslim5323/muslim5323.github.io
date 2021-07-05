@@ -1,0 +1,57 @@
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    right: 20px;
+}
+
+.img-logo{
+    width: 105px;
+    height: 28px;
+
+}
+.content-title{
+    font-size: 72px;
+
+}
+
+.block{
+    max-width: 575px;
+    width: 100%;
+    padding: 1px;
+}
+
+.nav {
+    display: flex;
+    list-style-type: none;
+    color: black;
+}
+
+.block-super{
+    display: flex;
+    right: 30px ;
+}
+
+.nav-list{
+    margin-left: 17px;
+    margin-right: 17px;
+}
+.btn1{
+    background: #8C30F5;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 16px 40px;
+    border: none;
+    border-radius: 1px;
+
+}
+.telefon{
+        margin-left: 200px;
+        height: 540px;
+}
+.mai{
+    margin-left: 200px;
+}
+.body{
+    border: 10px solid red;
+}
