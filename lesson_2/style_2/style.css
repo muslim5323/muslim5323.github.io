@@ -1,0 +1,28 @@
+.image_1 {
+    width: 400px;
+}
+.h1_primary_1 {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.p_text_1 {
+    color: #8f8f8f;
+}
+body {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.01em;
+}
+.conteiner_3 {
+    display: flex;
+    justify-content: center;
+}
+.conteiner_4 {
+    margin-left: 400px;
+}
+.image_2 {
+    margin-top: 20px;
+}
