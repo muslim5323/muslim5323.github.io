@@ -1,0 +1,50 @@
+body {
+    background: rgb(71, 71, 71);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;  
+    letter-spacing: 0.01em;
+}
+.image_1 {
+    border-radius: 100px;
+    text-align: center;
+    height: 100px;
+}
+.content_head {
+    text-align: center;
+}
+.h1_div {
+    width: 700px;
+    text-align: center;
+    margin-left: 340px;
+}
+.h1_2 {
+    color: rgb(129, 129, 129);
+}
+.h1_1 {
+    color: #fff;
+}
+.content_1 {
+    border: 1px solid rgb(209, 209, 209);
+    width: 250px;
+    border-radius: 40px;
+    margin-top: 60px;
+}
+.h1_3 {
+    color: rgb(184, 184, 184);
+}
+.h1_4 {
+    color: rgb(184, 184, 184);
+}
+.content_1:hover {
+    background: rgb(114, 114, 114);
+}
+.logo {
+    border-radius: 40px;
+}
+.content_bloks {
+    display: flex;
+    justify-content: center;
+}
